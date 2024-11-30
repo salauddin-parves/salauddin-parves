@@ -1,9 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=salauddin-parves&color=brightgreen)
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salauddin-parves&theme=dark&ring=FF0000&file=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&hide_border=true)](https://git.io/streak-stats)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=salauddin-parves&hide_border=true&show_icons=true&bg_color=151515&title_color=FF0000&icon_color=66FF00&text_bold=false&text_color=ffffff)
 
 # 👨‍💻 Salauddin Parves - Backend Developer  
 
@@ -37,5 +32,11 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
 
 ---
 
-<p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
+<p>If I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<h3>My GitHub contributions summary</h3>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salauddin-parves&theme=dark&ring=FF0000&file=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&hide_border=true)](https://git.io/streak-stats)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=salauddin-parves&hide_border=true&show_icons=true&bg_color=151515&title_color=FF0000&icon_color=66FF00&text_bold=false&text_color=ffffff)
