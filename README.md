@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<!--   <img alt="Python" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" /> -->
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -31,10 +31,10 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
 - Fiverr: [WordPress Developer | Elementor Expert | Website Design](https://www.fiverr.com/master_parves)
 
 ---
-
+<!-- 
 <p>If I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
+-->
 <h3>My GitHub contributions summary</h3>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salauddin-parves&theme=dark&ring=FF0000&file=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&hide_border=true)](https://git.io/streak-stats)
