@@ -27,7 +27,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
 ## 🚀 Let's Connect  
 
 - GitHub: [@/salauddin-parves](https://github.com//salauddin-parves)  
-- LinkedIn: [Salauddin Parves](https://www.linkedin.com/in/salauddin-parves-164977337/)
+- LinkedIn: [Salauddin Parves](https://www.linkedin.com/in/salauddinparves/)
 - Fiverr: [WordPress Developer | Elementor Expert | Website Design](https://www.fiverr.com/master_parves)
 
 ---
