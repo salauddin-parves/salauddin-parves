@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=salauddin-parves&color=brightgreen)
 
-# 👨‍💻 Salauddin Parves - Backend Developer  
+# 👨‍💻 Salauddin Parves - WEB DEVELOPER  
 
 Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a knack for building efficient, scalable, and secure server-side applications. I enjoy solving complex problems and bringing ideas to life through code.  
 
@@ -15,6 +15,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-javascript-f7df1c?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=bootstrap&logoColor=white" />
+   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+   <img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <!--   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" /> -->
@@ -27,16 +29,11 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
 ## 🚀 Let's Connect  
 
 - GitHub: [@/salauddin-parves](https://github.com//salauddin-parves)  
-- LinkedIn: [Salauddin Parves](https://www.linkedin.com/in/salauddinparves/)
-- Fiverr: [WordPress Developer | Elementor Expert | Website Design](https://www.fiverr.com/master_parves)
+- LinkedIn: [Salauddin Parves](https://bd.linkedin.com/in/salauddinparves)
+- Fiverr: [Web | WordPress Developer | Website Design](https://www.fiverr.com/master_parves)
 
 ---
 <!-- 
 <p>If I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 -->
-<h3>My GitHub contributions summary</h3>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=salauddin-parves&theme=dark&ring=FF0000&file=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&hide_border=true)](https://git.io/streak-stats)
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=salauddin-parves&hide_border=true&show_icons=true&bg_color=151515&title_color=FF0000&icon_color=66FF00&text_bold=false&text_color=ffffff)
