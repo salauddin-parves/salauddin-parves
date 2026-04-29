@@ -30,7 +30,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate web developer with a knack f
 
 - GitHub: [@/salauddin-parves](https://github.com//salauddin-parves)  
 - LinkedIn: [Salauddin Parves](https://bd.linkedin.com/in/salauddinparves)
-- Fiverr: [Web Developer | WordPress | Website Design](https://www.fiverr.com/master_parves)
+- Fiverr: [Web Developer | WordPress | Website Designer](https://www.fiverr.com/master_parves)
 - Portfolio: [Salauddin Parves](https://salauddinparves.com/)
 
 ---
