@@ -2,7 +2,7 @@
 
 # 👨‍💻 Salauddin Parves - WEB DEVELOPER  
 
-Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a knack for building efficient, scalable, and secure server-side applications. I enjoy solving complex problems and bringing ideas to life through code.  
+Welcome to my GitHub profile! 🚀 I'm a passionate web developer with a knack for building efficient, scalable, and secure server-side applications. I enjoy solving complex problems and bringing ideas to life through code.  
 
 ---
 
@@ -30,7 +30,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate backend developer with a kna
 
 - GitHub: [@/salauddin-parves](https://github.com//salauddin-parves)  
 - LinkedIn: [Salauddin Parves](https://bd.linkedin.com/in/salauddinparves)
-- Fiverr: [Web | WordPress Developer | Website Design](https://www.fiverr.com/master_parves)
+- Fiverr: [Web Developer | WordPress | Website Design](https://www.fiverr.com/master_parves)
+- Portfolio: [Salauddin Parves](https://salauddinparves.com/)
 
 ---
 <!-- 
